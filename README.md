@@ -19,8 +19,8 @@ This project demonstrates real-world API integration, asynchronous programming, 
 
 ## 🖼 Screenshot
 
-![AI Background Remover Screenshot](Home.png)
-![AI Background Remover Screenshot](Home2.png)
+![AI Background Remover Screenshot](home.png)
+![AI Background Remover Screenshot](home2.png)
 ![AI Background Remover Screenshot](bg-remove.png)
 
 *Example of the application after background removal.*
